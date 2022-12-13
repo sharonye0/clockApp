@@ -2,11 +2,10 @@
   "name": "clock",
   "version": "1.0.0",
   "description": "",
-  "source": "script.js",
-  "main": "dist/main.js",
+  "default": "index.html",
   "scripts": {
-    "watch": "parcel watch",
-    "build": "parcel build --dist-dir ./dist"
+    "watch": "parcel watch index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "repository": {
     "type": "git",

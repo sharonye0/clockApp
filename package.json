@@ -1,0 +1,23 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharonye0/clockApp.git"
+  },
+  "author": "Sharon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharonye0/clockApp/issues"
+  },
+  "homepage": "https://github.com/sharonye0/clockApp#readme",
+  "dependencies": {
+    "parcel": "^2.8.1"
+  }
+}

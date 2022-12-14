@@ -1,7 +1,8 @@
 /* TODO:
-         1- fix the seconds stick
+         1- fix the seconds stick (line 54)
          2- the dark mode button stays "dark mode"
          3- dark mode to light mode transitions are not working
+         4- responsive design for phone
 */
 const html = document.querySelector("html");
 const darkModeBtn = document.querySelector(".toggle");
